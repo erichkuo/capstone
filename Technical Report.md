@@ -35,4 +35,8 @@ Expected number of athlete deaths were computed for each league. These numbers w
 
 A/B testing was used to determine whether the distribution of ages of athletes' deaths were comparable to that of the general population of American males. Only baseball seems to have a different distribuion from the American population. Indeed, one graph indicates that baseball players have the highest life expectancy.
 
+![Average Age at death](https://github.com/erichkuo/capstone/blob/master/visuals/average_age_at_death.png)
+
 Classification was attempted to determine whether a baseball or football player born between 1930 and 1945 is still alive. Unfortunately, none of the classification models worked successfully. Even including height and weight of players didn't improve anything. Indeed, when one examines correlation between features such as length of career, number of games played, height and weight against age at death or player is alive or dead, one sees no correlation.
+
+![Age At Death Versus Experience](https://github.com/erichkuo/capstone/blob/master/visuals/age_versus_experience.png)
