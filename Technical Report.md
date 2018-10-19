@@ -33,6 +33,8 @@ In addition, data was also gathered for life expectancies of the general populat
 
 Expected number of athlete deaths were computed for each league. These numbers were computed based on number of players born in a year, and percentages of males of a certain age expected to die in a given year. Here is a sample figure for NBA players, plotted against actual number of deaths.
 
+![](https://github.com/erichkuo/capstone/blob/master/visuals/NBA_expected_deaths.png)
+
 A/B testing was used to determine whether the distribution of ages of athletes' deaths were comparable to that of the general population of American males. Only baseball seems to have a different distribuion from the American population. Indeed, one graph indicates that baseball players have the highest life expectancy.
 
 ![Average Age at death](https://github.com/erichkuo/capstone/blob/master/visuals/average_age_at_death.png)
