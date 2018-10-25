@@ -6,7 +6,8 @@
 More specifically:
 - Do different sports have different levels of impact on athletes' life expectancies?
 - Are life expectancies further affected by the length of the playing career, the number of games played, or the positions they played?
-- Can I build a model that predicts how many players will die in a given year, as well as the distribution of their ages when they died? Would this model be better than one based on vital statistics of the general population?
+- Can I build a model that predicts how many players will die in a given year, based on vital statistics of the general population?
+- How do the distribution of athletes' ages at death compare to that of the general population? 
 
 ## Data Collection
 
